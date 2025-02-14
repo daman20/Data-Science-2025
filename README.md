@@ -1,6 +1,8 @@
 # Data-Science-2025
 For TSA, this is the analysis we used
 
+We analyzed property values in comparison to proximity to parks and other greenspace.
+
 ## Missing Files
 I know, too big to upload to GitHub
 
